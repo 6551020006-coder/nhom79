@@ -52,7 +52,7 @@ Dự án này là một game được xây dựng bằng C++ với sử dụng t
 
 ## Hướng dẫn chơi game
 
-Game chứa một quả bóng di chuyển trên màn hình. Bạn có thể tương tác với game bằng chuột hoặc bàn phím.
+Game chứa một máy bay di chuyển trên màn hình. Bạn có thể tương tác với game bằng chuột hoặc bàn phím.
 
 ## Tính năng chính
 
